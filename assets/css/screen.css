@@ -113,8 +113,8 @@ production stylesheet in assets/built/screen.css
     z-index: 100;
     display: flex;
     align-items: center;
-    padding-top: calc(19vmin + 44px);
-    padding-bottom: 19vmin;
+    padding-top: 7vmin;
+    padding-bottom: 7vmin;
     text-align: center;
     color: var(--color-darkgrey);
 }
@@ -2052,7 +2052,7 @@ iframe.instagram-media + script + :not([id]) {
     position: relative;
     margin: max(12vmin, 64px) 0 0 0;
     padding-top: 48px;
-    padding-bottom: 140px;
+    padding-bottom: 48px;
     color: #fff;
     background: color-mod(var(--color-darkgrey) l(-5%));
 }
