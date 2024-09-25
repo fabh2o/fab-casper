@@ -116,7 +116,7 @@
             },
             "show_publication_cover": {
                 "type": "boolean",
-                "default": true,
+                "default": false,
                 "group": "homepage"
             },
             "header_style": {
@@ -161,7 +161,7 @@
             },
             "email_signup_text": {
                 "type": "text",
-                "default": "Sign up for more like this.",
+                "default": "Sign up for more like this :)",
                 "group": "post"
             },
             "show_recent_posts_footer": {
